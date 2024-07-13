@@ -31,7 +31,7 @@ $(document).ready(() => {
         }
     }); // end click() method
 
-    // set focus on cents text box on initial load
+    // set focus on cents text box on initial load - so when user just opens up the page it focuses on the textbox for user to input cents
     $("#cents").focus();
 
 }); // end ready() method
