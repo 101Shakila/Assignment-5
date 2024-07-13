@@ -26,7 +26,7 @@ $(document).ready(() => {
                 alert(e.message);
             }
 
-            //set the focus on cents for the textbox - 
+            //set the focus on cents for the textbox
             $("#cents").focus();
         }
     }); // end click() method
