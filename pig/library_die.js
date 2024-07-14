@@ -2,7 +2,7 @@
 
 class Die {
 	constructor() {
-		// Constructor doesn't need to do anything for now
+		// Since the die only needs a method we will keep this empty ~ and die OBJECT doesn't require inital properties when created
 	}
 
 	// Method to roll the die and get a random number between 1 and 6
