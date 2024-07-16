@@ -11,7 +11,7 @@ $(document).ready(() => {
         } else {
             try {
 
-                //Now using coins object from library_coin with it's fucntion too we pass in the user input ( cents )
+                //Now using coins object from library_coin with it's fucntion too we pass issn the user input ( cents )
                 coins.makeChange(cents);
 
                 // display the results of the calculations - based on # variables placed in html file we will display the data gathered from makeChange function
